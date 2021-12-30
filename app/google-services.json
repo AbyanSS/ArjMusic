@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620963158195",
+    "project_id": "arj-music-player",
+    "storage_bucket": "arj-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620963158195:android:96b9e0781695fbb71df8c6",
+        "android_client_info": {
+          "package_name": "me.abyanss.musikplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620963158195-rcnpn4r78bqan0a55gd7phpqapaor3sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY72uoFxe4NRa_UmLcBUvLA-FuzLl1N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620963158195-rcnpn4r78bqan0a55gd7phpqapaor3sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
